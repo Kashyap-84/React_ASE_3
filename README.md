@@ -24,6 +24,6 @@ By following this guide and completing the project, you'll gain valuable hands-o
 # Need Help?
 If you have any questions or need further assistance, feel free to reach out to:
 
-Name: Verra Venkata Sai Kashyap Kaligotla
-Email: kaligotlaveeravenkatasaikashya@gmail.com
-GitHub: https://github.com/Kashyap-84
+- Name: Verra Venkata Sai Kashyap Kaligotla
+- Email: kaligotlaveeravenkatasaikashya@gmail.com
+- GitHub: https://github.com/Kashyap-84
