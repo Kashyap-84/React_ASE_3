@@ -1,5 +1,5 @@
 # Learn to Code with a Video Tutorial!
-This project guides you through a coding project using a helpful video tutorial. The video provides step-by-step instructions to build a specific program. This guide will show you how to access the project files and walk you through the coding process.
+This assignment guides you through a react project using a helpful video tutorial. The video provides step-by-step instructions to build a specific program. This guide will show you how to access the project files and walk you through the coding process.
 
 # Get Coding!
 Here's what you'll achieve:
@@ -21,8 +21,8 @@ Once you've completed the project, upload your code to your GitHub repository to
 # Conclusion
 By following this guide and completing the project, you'll gain valuable hands-on coding experience. You'll also learn how to use GitHub for version control, a crucial skill for any developer. This project serves as a fun and practical way to improve your coding skills and understand how projects are built in the real world.
 
-# Need Help?
-If you have any questions or need further assistance, feel free to reach out to:
+# Contact
+
 
 - Name: Verra Venkata Sai Kashyap Kaligotla
 - Email: kaligotlaveeravenkatasaikashya@gmail.com
